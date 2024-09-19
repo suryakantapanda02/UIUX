@@ -2,7 +2,7 @@
 
 This is a description of my project.
 
-![Header Image](uiux/New Folder With Items/-1-Creative-Web-Agency-Digital-Marketing-Company (1).png)
+![Header Image](uiux/NewFolderWithItems/Websie design--1.png)
 
 ## Features
 
